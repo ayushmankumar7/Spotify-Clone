@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d67bac59.chunk.css",
+    "main.js": "/static/js/main.b82c30f9.chunk.js",
+    "main.js.map": "/static/js/main.b82c30f9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f9911b94.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f9911b94.js.map",
+    "static/js/2.be61bf41.chunk.js": "/static/js/2.be61bf41.chunk.js",
+    "static/js/2.be61bf41.chunk.js.map": "/static/js/2.be61bf41.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.424401c2211727b9a49ec3f8052872c2.js": "/precache-manifest.424401c2211727b9a49ec3f8052872c2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d67bac59.chunk.css.map": "/static/css/main.d67bac59.chunk.css.map",
+    "static/js/2.be61bf41.chunk.js.LICENSE.txt": "/static/js/2.be61bf41.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/CircularStd-Book.6365c40a.otf",
+    "static/media/heart.ffe68269.svg": "/static/media/heart.ffe68269.svg",
+    "static/media/home.3005871a.svg": "/static/media/home.3005871a.svg",
+    "static/media/library.d464e65a.svg": "/static/media/library.d464e65a.svg",
+    "static/media/note.ceeb8cd1.svg": "/static/media/note.ceeb8cd1.svg",
+    "static/media/play.78b8b985.svg": "/static/media/play.78b8b985.svg",
+    "static/media/play.beb633b3.svg": "/static/media/play.beb633b3.svg",
+    "static/media/search.0f637542.svg": "/static/media/search.0f637542.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9911b94.js",
+    "static/js/2.be61bf41.chunk.js",
+    "static/css/main.d67bac59.chunk.css",
+    "static/js/main.b82c30f9.chunk.js"
+  ]
+}
