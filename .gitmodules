@@ -1,0 +1,3 @@
+[submodule "spotifyclone/spotifyclone/frontend"]
+	path = spotifyclone/spotifyclone/frontend
+	url = https://github.com/ArkaprabhaChakraborty/Spotify-clone-remastered.git
